@@ -1,0 +1,21 @@
+{
+    "name": "markdown-extension-pack",
+    "displayName": "Markdown Extension Pack",
+    "description": "Collection of extensions related to Markdown",
+    "version": "0.0.1",
+    "publisher": "LeoJhonSong",
+    "repository": "https://github.com/LeoJhonSong/MarkDown-Extension-Pack",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "yzhang.markdown-all-in-one",
+        "marvhen.reflow-markdown",
+        "DavidAnson.vscode-markdownlint",
+        "bierner.emojisense",
+        "bierner.markdown-emoji"
+    ]
+}
