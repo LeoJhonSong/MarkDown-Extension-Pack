@@ -2,8 +2,9 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Collection of extensions related to Markdown",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "publisher": "LeoJhonSong",
+    "icon": "markdown-logo.png",
     "repository": "https://github.com/LeoJhonSong/MarkDown-Extension-Pack",
     "engines": {
         "vscode": "^1.31.0"
