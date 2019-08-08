@@ -31,6 +31,7 @@ tricks:
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
 - [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
+- [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 
 ## Contribute
 

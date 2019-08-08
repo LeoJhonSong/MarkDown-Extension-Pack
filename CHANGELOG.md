@@ -4,7 +4,13 @@
 
 ## [Unreleased]
 
-- Add description of the extensions.
+none.
+
+## [1.0.0] - 2019-08-09
+
+### Added
+
+- Add **Markdown Preview Mermaid Support** for Mermaid preview support in VSC
 
 ## [0.1.1] - 2019-03-11
 

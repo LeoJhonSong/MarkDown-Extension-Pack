@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Collection of extensions related to Markdown",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "publisher": "LeoJhonSong",
     "icon": "markdown-logo.png",
     "repository": "https://github.com/LeoJhonSong/MarkDown-Extension-Pack",
@@ -17,6 +17,7 @@
         "marvhen.reflow-markdown",
         "DavidAnson.vscode-markdownlint",
         "bierner.emojisense",
-        "bierner.markdown-emoji"
+        "bierner.markdown-emoji",
+        "bierner.markdown-mermaid"
     ]
 }
