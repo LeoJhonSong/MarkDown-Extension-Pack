@@ -2,9 +2,11 @@
 
 # Changelog
 
-## [Unreleased]
+## [1.1.0] - 2019-08-27
 
-none.
+### Added
+
+- Add Graphviz Support
 
 ## [1.0.0] - 2019-08-09
 
