@@ -2,6 +2,18 @@
 
 # Changelog
 
+
+## [1.3.0] - 2019-09-02
+
+### Added
+
+- Add markdown formatter
+- Add markdown githu style preview
+
+### Removed
+
+- Remove markdown linkter as it is useless
+
 ## [1.1.0] - 2019-08-27
 
 ### Added
