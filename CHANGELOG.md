@@ -3,12 +3,19 @@
 # Changelog
 
 
+## [2.0.0] - 2020-10-30
+
+### Removed
+
+- Remove markdown formatter as we should write md more freely
+- Remove markdown github style preview as the native color theme performs better now
+
 ## [1.3.0] - 2019-09-02
 
 ### Added
 
 - Add markdown formatter
-- Add markdown githu style preview
+- Add markdown github style preview
 
 ### Removed
 

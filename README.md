@@ -34,13 +34,10 @@ tricks:
 * [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
 * [Graphviz (dot) language support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=joaompinto.vscode-graphviz)
 
-* [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
-* [markdown-formatter](https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter)
-
 ## Contribute
 
-If you find a extension really useful when developing python code and want to
-improve this extension, feel free to [raise a issue](https://github.com/LeoJhonSong/MarkDown-Extension-Pack/issues).
+If you find a extension really useful when typing Markdown and want to
+improve this extension pack, feel free to [raise a issue](https://github.com/LeoJhonSong/MarkDown-Extension-Pack/issues).
 But please notice that **issues using the extensions included in this pack**
 will not be accepted in this extension pack's repository😅.
 
